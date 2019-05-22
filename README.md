@@ -25,7 +25,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 
 ## Generic library
-* [Mixed Reality Toolkit](https://github.com/Microsoft/MixedRealityToolkit) - The MixedRealityToolkit is a collection of scripts and components intended to accelerate the development of mixed reality applications targeting Windows Mixed Reality. 
+* [Microsoft Mixed Reality Toolkit](https://github.com/Microsoft/MixedRealityToolkit) - The Microsoft Mixed Reality Toolkit is a collection of scripts and components intended to accelerate the development of mixed reality applications targeting Windows Mixed Reality. 
 * [Mixed Reality Companion Kit](https://github.com/Microsoft/MixedRealityCompanionKit) - This is a MixedRealityToolkit style repository for code bits and components that may not run directly on Microsoft HoloLens or immersive headsets but instead pair with them to build experiences. 
 * [Mixed Reality with JS](https://github.com/dbradleyfl/Mixed-Reality-JS) - A simple framework for building Hololens applications with Javascript and ThreeJS. Based on HoloJS. 
 * [MR Design Labs Unity Tools](https://github.com/Microsoft/MRDesignLabs_Unity_Tools) - This repository contains the tools leveraged for our Mixed Reality Design Lab examples in Unity. 
@@ -49,6 +49,7 @@ Contributions are welcome - any kind of library/software/resource is accepted. T
 
 ## Unity Library
 * [Mixed Reality Toolkit - Unity](https://github.com/Microsoft/MixedRealityToolkit-Unity) - MixedRealityToolkit-Unity uses code from the base MixedRealityToolkit repository and makes it easier to consume in Unity. 
+* [XRTK](https://github.com/XRTK/XRTK-Core) - The fork of Microsoft's MRTK with support for more AR/MR platforms, including ARCore, ARkit and Lumin. 
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
